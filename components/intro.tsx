@@ -8,7 +8,7 @@ const Intro = () => {
       </h1>
       <img
         src="/assets/blog/authors/moneyment.png" 
-        style={{ width: '100px', height: '100px' }}
+        style={{ width: '250px', height: '250px' }}
       />
     </section>
   )
