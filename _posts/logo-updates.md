@@ -1,6 +1,6 @@
 ---
 title: 'Moneyment Logo Update'
-excerpt: '...'
+excerpt: 'Our updated logo perfectly emphasizes our brand as we move into the development phase...'
 coverImage: '/assets/blog/logo-update/cover.png'
 date: '2023-10-15T05:35:07.322Z'
 author:
