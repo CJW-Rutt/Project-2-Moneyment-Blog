@@ -1,7 +1,7 @@
 ---
 title: 'Presenting Moneyment at the BCIT Distinguished Awards Gala'
 excerpt: 'This week, Giovana took the lead on behalf of our team and had the incredible opportunity to showcase Moneyment at the prestigious BCIT Distinguished Awards Gala. During the gala....'
-coverImage: '/assets/blog/bcit-awards/awards.jpg'
+coverImage: '/assets/blog/moneyment/awards.png'
 date: '2023-11-03T05:35:07.322Z'
 author:
   name: Moneyment Team

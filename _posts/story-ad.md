@@ -1,7 +1,7 @@
 ---
 title: 'Moneyment Story Ad'
 excerpt: 'Lights, camera, action! Our recent filming day took us had us capturing our main character as she spent a day navigating financial decisions...'
-coverImage: '/assets/blog/moneyment/story3.png'
+coverImage: '/assets/blog/moneyment/story4.png'
 date: '2023-11-05T05:35:07.322Z'
 author:
   name: Moneyment Team

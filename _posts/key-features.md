@@ -1,7 +1,7 @@
 ---
 title: 'Moneyment Key Features'
 excerpt: 'Moneyment will have many key user-friendly features designed to help you track and manage your finances...'
-coverImage: '/assets/blog/hello-world/moneyment-hifi.png'
+coverImage: '/assets/blog/moneyment/key.png'
 date: '2023-10-09T05:35:07.322Z'
 author:
   name: Moneyment Team

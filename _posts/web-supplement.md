@@ -1,7 +1,7 @@
 ---
 title: 'Moneyment Website & Web Supplement'
 excerpt: 'Our website, moneyment.ca, is now live! The website is a grat place to find more information on our app and to sign up...'
-coverImage: '/assets/blog/moneyment/web-sup2.png'
+coverImage: '/assets/blog/moneyment/web-sup3.png'
 date: '2023-11-15T05:35:07.322Z'
 author:
   name: Moneyment Team

@@ -1,7 +1,7 @@
 ---
 title: 'Moneyment Colour Pallete '
 excerpt: 'Our initial color scheme featuring orange, white, and black might have had its aesthetic appeal, but when it comes to accessibility, it was not the right choice for our app. As we need to make our app accessible to all users, we made the decision to explore a broader range of colors...'
-coverImage: '/assets/blog/preview/colour.png'
+coverImage: '/assets/blog/moneyment/colour.png'
 date: '2023-10-07T05:35:07.322Z'
 author:
   name: Moneyment Team

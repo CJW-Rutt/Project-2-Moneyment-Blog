@@ -1,7 +1,7 @@
 ---
 title: 'Welcome to Moneyment'
 excerpt: 'In September 2023, Giovana, Kaitlyn, Sara, and Hayden pitched Moneyment to the D3 cohorts, earning a spot among the nine selected apps...'
-coverImage: '/assets/blog/moneyment/moneyment.png'
+coverImage: '/assets/blog/moneyment/welcome.png'
 date: '2023-10-02T05:35:07.322Z'
 author:
   name: Moneyment Team

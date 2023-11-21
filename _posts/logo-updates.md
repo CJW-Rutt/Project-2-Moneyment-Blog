@@ -1,7 +1,7 @@
 ---
 title: 'Moneyment Logo Update'
 excerpt: 'Our updated logo perfectly emphasizes our brand as we move into the development phase...'
-coverImage: '/assets/blog/logo-update/cover.png'
+coverImage: '/assets/blog/moneyment/logo.png'
 date: '2023-10-15T05:35:07.322Z'
 author:
   name: Moneyment Team

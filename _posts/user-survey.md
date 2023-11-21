@@ -1,7 +1,7 @@
 ---
 title: 'Moneyment User Survey Findings'
 excerpt: 'In our survey, we had 11 participants, in different age groups and employment levels talk about their financial tracking methods. Through this survey, we able to learn three major...'
-coverImage: '/assets/blog/dynamic-routing/survey.jpg'
+coverImage: '/assets/blog/moneyment/user.png'
 date: '2023-10-03T05:35:07.322Z'
 author:
   name: Moneyment Team
